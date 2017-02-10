@@ -1,0 +1,25 @@
+var LENDET = 
+[
+	{ lenda: "Elektronike", kreditet: 5 },
+	{ lenda: "Baza Informatike", kreditet: 11 },
+	{ lenda: "Algjeber", kreditet: 5 },
+	{ lenda: "Matematike", kreditet: 12 },
+	{ lenda: "Fizike", kreditet: 10 },
+	{ lenda: "Strukture te Dhenash ne C", kreditet: 11 },
+	{ lenda: "Anglisht", kreditet: 6 },
+	{ lenda: "Sisteme Multimediale", kreditet: 7},
+	{ lenda: "Arkitekture", kreditet: 6 },
+	{ lenda: "Anglisht 2", kreditet: 6 },
+	{ lenda: "Lende me Zgjedhje", kreditet: 6 },
+	{ lenda: "Matematike e Aplikuar", kreditet: 11 },
+	{ lenda: "Java", kreditet: 12},
+	{ lenda: "Algoritmike", kreditet: 12 },
+	{ lenda: "Sisteme Operimi", kreditet: 10 },
+	{ lenda: "Rrjetat", kreditet: 9 },
+	{ lenda: "Baze te Dhenash", kreditet: 9 },
+	{ lenda: "Sisteme Logjike", kreditet: 5 },
+	{ lenda: "Teori Gjuhesh", kreditet: 5 },
+	{ lenda: "Lende me Zgjedhje", kreditet: 4 },
+	{ lenda: "Programim Web", kreditet: 10 },
+	{ lenda: "Provim Diplome", kreditet: 8 }
+];

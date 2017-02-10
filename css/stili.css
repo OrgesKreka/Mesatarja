@@ -1,0 +1,53 @@
+		h2
+		{
+			text-align: center;
+		}
+
+		body
+		{
+			font-family: Consolas;
+			font-size: 16px;
+		}
+
+		input[type=text]
+		{
+			border-radius: 5px;
+			text-align: center;
+		}
+
+		button
+		{ 
+			position: absolute; 
+			background-color: #CF5C3F; 
+			font-size: 12px; 
+			border-radius: 5px; 
+			width:100px;  height:30px; 
+			font-family: Consolas; font-weight: bold;
+		}
+
+
+		table{ text-align: left;}
+
+
+		button:disabled
+		{ color: lightgray; }
+
+
+		body
+		{ background: url( index.png ); }
+
+
+		b{ color: red; font-size: 18px; }
+
+		#wrapper
+		{
+			padding-top: 30px;
+
+		 	position: relative;
+
+			width: 650px;
+
+			padding-left: 500px;
+
+			text-align: center;
+		}

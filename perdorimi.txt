@@ -1,0 +1,6 @@
+Per te shtuar nje note mjafton te klikosh checkboxin dhe ne fushen qe shfaqet duhet te shkruash noten.
+Pasi ke plotesuar lendet e deshiruara dhe mjafton te klikosh butonin llogarit.
+Nese ndryshon nje note ne nje fushe teksti aktive nuk mund ta klikosh butonin llogarit, por duhet te rizgjedhesh perseri fushen duke
+klikuar checkboxin perkates dhe me pas mund te japesh noten  e re dhe te klikosh llogarit.
+
+-Orges Kreka./ 
